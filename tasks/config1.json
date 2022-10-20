@@ -1,0 +1,32 @@
+{   
+    "char0.png": {
+	"rect": [470, 0],
+	"location": "right",
+	"ir": "3",
+	"boat": "no"
+    }, 
+
+    "char1.png": {
+	"rect": [470, 150],
+	"location": "right",
+	"ir": "1",
+	"boat": "no"
+    },
+	
+    "char2.png": {
+	"rect": [470, 300],
+	"location": "right",
+	"ir": "2",
+	"boat": "no"
+    },
+
+    "char3.png": {
+	"rect": [470, 450],
+	"location": "right",
+	"ir": "0",
+	"boat": "yes"
+    }
+}
+	
+			
+		
